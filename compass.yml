@@ -1,0 +1,13 @@
+name: vscode-java-pack
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/e50c8be6-ea60-422a-ac6a-7f58ecae2583
+description: VS Code extensions for Java developers.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
